@@ -17,15 +17,14 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [abc](https://github.com/iPPL-AR/aa)
->제목 (개인 프로젝트)  
->개발 기간: 2021.10.00 ~ 2021.10.00  
+### 1. [forHSP](https://github.com/iPPL-AR/forHSP)
+>HSP들을 위한 웹페이지 (개인 프로젝트)  
+>개발 기간: 2021.10.10 ~ ING
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Javascript / HTML / CSS
 >  
->[프로젝트 상세 설명](https://github.com/iPPL-AR/aa) 참고
+>[프로젝트 상세 설명](https://github.com/iPPL-AR/forHSP) 참고
 
 ---
 
