@@ -17,7 +17,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [forHSP](https://github.com/iPPL-AR/forHSP)
+### 1. [forHSP](https://github.com/iRRPL-AR/forHSP)
 >HSP들을 위한 웹페이지 (개인 프로젝트)  
 >개발 기간: 2021.10.10 ~ ING
 >  
