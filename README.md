@@ -24,7 +24,7 @@
 >기술 스택:  
 >Javascript / HTML / CSS
 >  
->[프로젝트 상세 설명](https://github.com/iPPL-AR/forHSP) 참고
+>[프로젝트 상세 설명](https://github.com/iRRPL-AR/forHSP/blob/main/README.md) 참고
 
 ---
 
