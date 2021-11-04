@@ -24,7 +24,7 @@
 >기술 스택:  
 >Javascript / HTML / CSS
 >  
->[프로젝트 상세 설명](https://github.com/iRRPL-AR/The_2nd_half-To_do/blob/main/README.md) 참고
+>[프로젝트 상세 설명](https://github.com/iRRPL-AR/The_2nd_half-To_do/blob/gh-pages/README.md) 참고
 
 ---
 
