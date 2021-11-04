@@ -15,9 +15,20 @@
 - 깃헙: https://github.com/iPPL-AR
 
 </br>
+## :pushpin: Projects
+### 1. [The 2nd half - To_do](https://irrpl-ar.github.io/The_2nd_half-To_do/)
+>하반기 D-day Counting을 보며 To Do list 작성하는 페이지 (개인 프로젝트)  
+>개발 기간: 2021.10.31 ~ ING
+>  
+>기술 스택:  
+>Javascript / HTML / CSS
+>  
+>[프로젝트 상세 설명](https://github.com/iRRPL-AR/The_2nd_half-To_do/blob/main/README.md) 참고
+
+---
 
 ## :pushpin: Projects
-### 1. [forHSP](https://github.com/iRRPL-AR/forHSP)
+### 2. [forHSP](https://github.com/iRRPL-AR/forHSP)
 >HSP들을 위한 웹페이지 (개인 프로젝트)  
 >개발 기간: 2021.10.16 ~ ING
 >  
