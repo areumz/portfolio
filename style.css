@@ -67,6 +67,15 @@ body {
     margin-bottom:30px;
 }
 
+.navigation a {
+    transition: border-bottom 200ms ease-in;
+}
+
+.navigation a:hover {
+    border-bottom: 3px solid #413839;
+    opacity:0.8;
+}
+
 /* main */
 .main .icon-leaf {
     width:auto;
