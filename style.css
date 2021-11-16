@@ -97,6 +97,10 @@ body {
     letter-spacing: 0.05em;
 }
 
+.main-desc hr {
+    margin-top:40px;
+}
+
 .main-contact,
 .main-etc {
     letter-spacing: 0.05em;
