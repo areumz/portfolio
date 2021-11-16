@@ -1,0 +1,237 @@
+* {
+    box-sizing: border-box;
+    margin:0;
+}
+
+/* Reset CSS */
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+button,
+input,
+textarea {
+    font-family: 'IBM Plex Sans KR', sans-serif;
+    font-size: 16px;
+}
+
+button:focus,
+button:active 
+input:focus,
+input:active 
+textarea:focus,
+textarea:active {
+    outline: none;
+    box-shadow: none;
+}
+
+ul,
+ol,
+li {
+    list-style-type: none;
+    padding-left: 0;
+    margin-left:0 ;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.33333;
+    color: #0C090A;
+}
+
+body {
+    /* font-family: 'DM Sans', sans-serif; */
+    font-family: 'IBM Plex Sans KR', sans-serif;
+    background-color: #DBF9DB;
+}
+
+/* navigation */
+.navigation ul {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-top: 20px;
+}
+
+.navigation ul li {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 25px;
+    color: #413839;
+    font-weight: 700;
+    line-height: 1.33333;
+    letter-spacing: 0.02em;
+}
+
+.navigation ul li:last-child {
+    margin-bottom:30px;
+}
+
+/* main */
+.main .icon-leaf {
+    width:auto;
+    height:20px;
+}
+
+.main .icon-me {
+    display:none;
+}
+
+.main h1 {
+    font-size:20px;
+    display:block;
+    margin-bottom: 10px;
+}
+
+.main-desc {
+    font-size:20px;
+    letter-spacing: 0.05em;
+}
+
+.main-contact,
+.main-etc {
+    letter-spacing: 0.05em;
+}
+
+.main-contact .channel{
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+
+.main-contact .contact {
+    margin-bottom:20px;
+}
+
+.main-contact dt {
+    font-size:20px;
+    font-weight: 700;
+    color:#033E3E;
+}
+
+.main-tool-skill dt,
+.main-edu dt,
+.main-fav dt {
+    font-size:18px;
+    font-weight: 700;
+}
+
+.main-tool-skill,
+.main-edu,
+.main-fav {
+    margin-bottom: 18px;
+}
+
+@media screen and (min-width: 768px) {
+    /* Reset CSS */
+    p {
+        font-size: 20px;
+        line-height: 1.33333;
+        color: #0C090A;
+    }
+    /* navigation */
+    .body {
+        width:100%;
+        height:100vh;
+    }
+
+    .navigation {
+        width:100%;
+        display:flex;
+        flex-direction: row;
+        justify-content: flex-end;
+        align-items: flex-end;
+        margin-bottom: 40px;
+    }
+
+    .navigation .row {
+        justify-content: flex-end;
+        align-items: flex-end;
+    }
+
+    .navigation ul {
+        flex-direction: row;
+        justify-content: flex-end;
+        align-items: flex-end;
+    }
+
+    .navigation ul li:first-child {
+        margin-top:25px;
+        margin-right:30px;
+    }
+
+    .navigation ul li:last-child {
+        margin-bottom:0;
+        text-align: right;
+    }
+
+    /* main */
+    .main {
+        font-size: 30px;
+    }
+    .main .icon-me {
+        display:block;
+        width:120px;
+        height:120px;
+    }
+
+    .main .icon-leaf {
+        width:auto;
+        height:50px;
+    }
+
+    .main header {
+        display:flex;
+    }
+
+    .main h1 {
+        font-size:50px;
+        padding: 20px 0;
+        margin-bottom: 20px;
+    }
+    .main-contact {
+        display: flex;
+        justify-content: flex-start;
+        margin-top:50px;
+        margin-bottom: 50px;
+        margin-right: 100px;
+    }
+
+    .main-contact .channel{
+        display:flex;
+        flex-direction: column;
+        margin-top:0;
+        margin-bottom: 0;
+    }
+
+    .main-contact .contact {
+        display: flex;
+        flex-direction: column;
+        margin-top:0;
+        margin-bottom:0;
+    }
+
+    .main-contact dt {
+        font-size:30px;
+        font-weight: 700;
+    }
+
+    .main-etc dt {
+        font-size:20px;
+        color: #045F5F;
+    }
+
+    .main-contact dd,
+    .main-etc dd {
+        font-size:18px;
+    }
+
+    .main-etc {
+        display:flex;
+        justify-content: flex-start;
+    }
+
+    .main-tool-skill,
+    .main-edu {
+        margin-right: 70px;
+    }
+ }
