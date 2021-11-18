@@ -17,26 +17,26 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [The 2nd half - To_do](https://irrpl-ar.github.io/The_2nd_half-To_do/)
->하반기 D-day Counting을 보며 To Do list 작성하는 페이지 (개인 프로젝트)  
+### 1. [음원 스트리밍 서비스 비교](https://irrpl-ar.github.io/Comparison-of-music-streaming-service/)
+>각종 음원 스트리밍 서비스를 비교하고 골라보는 웹 페이지 (개인 프로젝트)  
+>개발 기간: 2021.11.16 ~ 11.18
+>  
+>기술 스택:  
+>Javascript / HTML / CSS
+>  
+>[프로젝트 상세 설명](https://github.com/iRRPL-AR/Comparison-of-music-streaming-service/blob/gh-pages/README.md) 참고
+
+---
+
+## :pushpin: Projects
+### 2. [The 2nd half - To_do](https://irrpl-ar.github.io/The_2nd_half-To_do/)
+>하반기 D-day Counting을 보며 To Do list 작성하는 웹 페이지 (개인 프로젝트)  
 >개발 기간: 2021.10.31 ~ ING
 >  
 >기술 스택:  
 >Javascript / HTML / CSS
 >  
 >[프로젝트 상세 설명](https://github.com/iRRPL-AR/The_2nd_half-To_do/blob/gh-pages/README.md) 참고
-
----
-
-## :pushpin: Projects
-### 2. [forHSP](https://irrpl-ar.github.io/forHSP/)
->HSP들을 위한 웹페이지 (개인 프로젝트)  
->개발 기간: 2021.10.16 ~ ING
->  
->기술 스택:  
->Javascript / HTML / CSS
->  
->[프로젝트 상세 설명](https://github.com/iRRPL-AR/forHSP/blob/main/README.md) 참고
 
 ---
 
