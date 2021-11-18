@@ -134,6 +134,50 @@ body {
     margin-bottom: 18px;
 }
 
+
+/* first */
+.first {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.first img {
+    width:280px;
+    height: 225px;
+    border-radius: 10px;
+    margin-top:20px;
+    margin-bottom: 10px;
+}
+
+.first-a-web {
+    color: #15317E;
+    display: block;
+    margin-bottom: 0;
+}
+
+.first-a-read {
+    color: #15317E;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.first-desc {
+    background-color: white;
+    width:280px;
+    height: 225px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.first-desc strong {
+    display: block;
+    padding-top: 15px;
+    font-size:18px;
+    letter-spacing: 0.05em;
+}
+
 @media screen and (min-width: 768px) {
     /* Reset CSS */
     p {
@@ -246,5 +290,38 @@ body {
     .main-tool-skill,
     .main-edu {
         margin-right: 70px;
+    }
+
+    /* first */
+    .first-div {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+    }
+    
+    .first img {
+        width:380px;
+        height: 325px;
+        margin-right: 20px;
+    }
+    
+     .first-desc {
+        width:380px;
+        height: 325px;
+        margin-top: 20px;
+    }
+    
+    .first-desc p {
+        font-size:20px;
+    }
+    
+    .first-a-web,
+    .first-a-read {
+        font-size:20px;
+    }
+        
+    .first-desc strong {
+        padding-top: 40px;
+        font-size:28px;
     }
  }
