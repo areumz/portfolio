@@ -28,7 +28,19 @@
 
 ---
 
-### 2. [The 2nd half - To_do](https://irrpl-ar.github.io/The_2nd_half-To_do/)
+### 2. [(리액트) 크리스마스 영화 추천](https://irrpl-ar.github.io/React_Christmas-movies)
+>크리스마스 영화 추천과 간단히 나의 평점을 매겨보는 웹 페이지 (개인 프로젝트)  
+>개발 기간: 2021.11.23 ~ 11.24
+>  
+>기술 스택:  
+>React JS / Jsx / CSS
+>  
+>[프로젝트 상세 설명](https://github.com/iRRPL-AR/React_Christmas-movies/blob/gh-pages/README.md) 참고
+
+
+---
+
+### 3. [The 2nd half - To_do](https://irrpl-ar.github.io/The_2nd_half-To_do/)
 >하반기 D-day Counting을 보며 To Do list 작성하는 웹 페이지 (개인 프로젝트)  
 >개발 기간: 2021.10.31 ~ 11.18
 >  
