@@ -221,6 +221,49 @@ body {
     letter-spacing: 0.05em;
 }
 
+/* third */
+.third {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.third img {
+    width:280px;
+    height: 225px;
+    border-radius: 10px;
+    margin-top:20px;
+    margin-bottom: 10px;
+}
+
+.third-a-web {
+    color: #15317E;
+    display: block;
+    margin-bottom: 0;
+}
+
+.third-a-read {
+    color: #15317E;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.third-desc {
+    background-color: white;
+    width:280px;
+    height: 225px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.third-desc strong {
+    display: block;
+    padding-top: 15px;
+    font-size:18px;
+    letter-spacing: 0.05em;
+}
+
 @media screen and (min-width: 768px) {
     /* Reset CSS */
     p {
@@ -374,29 +417,62 @@ body {
         flex-direction: row;
         justify-content: flex-start;
     }
-        
+    
     .second img {
         width:380px;
         height: 325px;
         margin-right: 20px;
     }
+    
+     .second-desc {
+        width:380px;
+        height: 325px;
+        margin-top: 20px;
+    }
+    
+    .second-desc p {
+        font-size:20px;
+    }
+    
+    .second-a-web,
+    .second-a-read {
+        font-size:20px;
+    }
         
-    .second-desc {
+    .second-desc strong {
+        padding-top: 40px;
+        font-size:28px;
+    }
+
+    /* third */
+    .third-div {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+    }
+        
+    .third img {
+        width:380px;
+        height: 325px;
+        margin-right: 20px;
+    }
+        
+    .third-desc {
         width:380px;
         height: 325px;
         margin-top: 20px;
     }
         
-    .second-desc p {
+    .third-desc p {
         font-size:20px;
     }
         
-    .second-a-web,
-    .second-a-read {
+    .third-a-web,
+    .third-a-read {
         font-size:20px;
     }
             
-    .second-desc strong {
+    .third-desc strong {
         padding-top: 40px;
         font-size:28px;
     }
