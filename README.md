@@ -12,7 +12,7 @@
 
 ## :pushpin: Contact
 - 이메일: ksah1016@gmail.com
-- 깃헙: https://github.com/iPPL-AR
+- 깃헙: https://github.com/areumz
 
 </br>
 
